@@ -1,0 +1,1 @@
+# ingresa un numero por teclado si es mayor que 10
